@@ -1,0 +1,51 @@
+header {
+    margin: auto;
+}
+#BM {
+background: linear-gradient(to right, blue ,red, white);
+}
+
+.card{
+    position: relative;
+}
+.card {
+    max-width: 100%;
+    height: auto;
+}
+.text {
+    position: absolute;
+    top: 25%;
+    color: #fff;
+    padding: 20px;
+    margin-left: 175px;
+}
+.text h2 {
+    font-size: 60px;
+    text-transform: uppercase;
+    font-weight:bold ;
+    margin-bottom: 5px;
+}
+#p1 {
+    width: 27%;
+    font-size: 17px;
+}
+.navbar-brand {
+    margin-left: 10%;
+}
+
+#carouselExampleSlidesOnly{
+    width: 53%;
+}
+.mcs1{
+    display: flex;
+    justify-content: space-around;
+}
+.cars{
+    display: flex;
+    justify-content: space-around;
+}
+
+.cars img{
+    width: 210px;
+}
+
